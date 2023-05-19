@@ -13,6 +13,8 @@ J-Quants API のフリープランで利用可能な機能をExcel VBA で実装
     
     財務情報(/fins/statements)
     
+    決算発表予定日(/fins/announcement)
+    
 ２）利用方法
 
 利用には、シート「token」の指定セルにメールアドレスとパスワードを入れてください。
